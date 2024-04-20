@@ -3,10 +3,13 @@ Simple ngl.link spammer bot using python.
 
 # Installation
 
-```python
+```sh
 pip install requests
 ```
 
-```python
+```sh
 python nglspammer.py
 ```
+
+## Author 
+* Jan Liby Dela Costa
